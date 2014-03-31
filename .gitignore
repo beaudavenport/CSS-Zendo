@@ -1,0 +1,3 @@
+# exclude metadata file and settings file
+/.metadata
+/.settings
